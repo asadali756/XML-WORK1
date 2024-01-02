@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding= "UTF-8"?>
+
+<result>
+<student1 type="Sindh-board">
+<name> AHMAD </name>
+<physics> 90 </physics>
+<chemistry> 75 </chemistry>
+<math> 65</math>
+
+</student1>
+<student2 type="Kpk-board">
+<name> Ramiz </name>
+<physics> 83 </physics>
+<chemistry> 56 </chemistry>
+<math> 88 </math>
+
+
+
+</student2>
+<student3 type="punjab-board">
+<name> Fahad </name>
+<physics> 65 </physics>
+<chemistry> 56 </chemistry>
+<math> 77</math>
+
+</student3>
+
+
+</result>
